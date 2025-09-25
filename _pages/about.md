@@ -21,8 +21,7 @@ I am a passionate statistician with a strong foundation in **mathematics**, **st
   Risk Consultant at **KPMG Cyprus**, where I applied advanced analytics and statistical models to help businesses manage risks and make data-driven decisions.
 
 - 📚 **Research Interests**:
-  I am deeply interested in the theoretical and practical aspects of **Bayesian statistics**, **nonparametric methods**, and **network analysis**.
-My Master’s research project focused on applying **Bayesian modeling** to **sparse and power-law graphs** in **financial networks**. It involves analyzing a **real-world U.S. equities network**. Using a Bayesian model approach, we identify **overlapping communities of stocks** that exhibit similar behavior, uncovering **co-movement patterns** and **diversification opportunities**.
+  I am deeply interested in the theoretical and practical aspects of Bayesian statistics, nonparametric methods, and network analysis.
 
 ## 🤔 I’m looking for...
 - Exploring innovative research ideas in **Bayesian statistics**.
