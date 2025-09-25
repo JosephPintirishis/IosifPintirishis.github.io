@@ -9,9 +9,9 @@ title                    : "Iosif Pintirishis"
 title_separator          : "-"
 name                     : &name "Iosif Pintirishis"
 description              : &description "personal description"
-url                      : "https://IosifPintirishis.github.io"
+url                      : "https://josephpintirishis.github.io"
 baseurl                  : "" # leave empty for user.github.io site
-repository               : "JosephPintirishis/IosifPintirishis.github.io"
+repository               : "JosephPintirishis/josephpintirishis.github.io"
 
 # ====================================================
 # Theme
