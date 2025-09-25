@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Iosif Pintirishis"
-  avatar           : "foto22.jpg"
+  avatar           : "webpage_profile.jpg"
   bio              : "Ph.D. student in Statistics and Computer Science"
   location         : "Bocconi University"
   location         : "Milan, Italy"
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JosephPintirishis"
+  github           : "https://github.com/JosephPintirishis"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/iosif-pintirishis-a69387244/"
   orcid            : 
   pinterest        :
   soundcloud       :
