@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alessandro Pinzi"
+title                    : "Iosif Pintirishis"
 title_separator          : "-"
-name                     : &name "Alessandro Pinzi"
+name                     : &name "Iosif Pintirishis"
 description              : &description "personal description"
-url                      : https://alessandropinzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://IosifPintirishis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AlessandroPinzi/alessandropinzi.github.io"
+repository               : "JosephPintirishis/IosifPintirishis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alessandro Pinzi"
+  name             : "Iosif Pintirishis"
   avatar           : "foto22.jpg"
   bio              : "Ph.D. student in Statistics and Computer Science"
   location         : "Bocconi University"
@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            : "alessandropinzi@phd.unibocconi.it"
+  email            : "iosif.pintirishis@phd.unibocconi.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AlessandroPinzi"
+  github           : "JosephPintirishis"
   google_plus      :
   keybase          :
   instagram        :
