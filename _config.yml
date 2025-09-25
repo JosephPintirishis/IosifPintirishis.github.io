@@ -11,6 +11,11 @@ title                    : "Iosif Pintirishis"
 title_separator          : "-"
 name                     : &name "Iosif Pintirishis"
 description              : &description "personal description"
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
 url                      : https://IosifPintirishis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JosephPintirishis/IosifPintirishis.github.io"
