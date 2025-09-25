@@ -43,9 +43,9 @@ author:
 # ====================================================
 # Social Sharing / SEO
 # ====================================================
-twitter:
-  username: ""
-og_image: ""   # Optional: add a default social sharing image
+# twitter:
+#  username: ""
+# og_image: ""   # Optional: add a default social sharing image
 
 # ====================================================
 # Reading / Conversion Settings
@@ -71,7 +71,7 @@ encoding: "utf-8"
 # ====================================================
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
