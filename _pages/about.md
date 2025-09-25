@@ -26,8 +26,8 @@ I am a passionate statistician with a strong foundation in **mathematics**, **st
 
 
 ## How to reach me:
-- 📧 Email: [iosif.pintirishis@phd.unibocconi.it](iosif.pintirishis@phd.unibocconi.it)
-- 💼 LinkedIn: [Iosif Pintirishis](https://www.linkedin.com/in/iosif-pintirishis-a69387244/)
+- Email: [iosif.pintirishis@phd.unibocconi.it](iosif.pintirishis@phd.unibocconi.it)
+- LinkedIn: [Iosif Pintirishis](https://www.linkedin.com/in/iosif-pintirishis-a69387244/)
 
 
 
